@@ -51,3 +51,9 @@ C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.WebUI\bin\Newtonsoft
 C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.WebUI\obj\Debug\Anagrams.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.WebUI\obj\Debug\Anagrams.WebUI.dll
 C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.WebUI\obj\Debug\Anagrams.WebUI.pdb
+C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.WebUI\bin\Anagrams.Business.dll
+C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.WebUI\bin\Anagrams.Entity.dll
+C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.WebUI\bin\Ninject.dll
+C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.WebUI\bin\Anagrams.Business.pdb
+C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.WebUI\bin\Anagrams.Entity.pdb
+C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.WebUI\bin\Ninject.xml

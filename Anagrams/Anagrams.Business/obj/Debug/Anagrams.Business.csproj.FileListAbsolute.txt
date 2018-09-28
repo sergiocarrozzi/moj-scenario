@@ -1,0 +1,7 @@
+C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.Business\bin\Debug\Anagrams.Business.dll
+C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.Business\bin\Debug\Anagrams.Business.pdb
+C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.Business\bin\Debug\Anagrams.Entity.dll
+C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.Business\bin\Debug\Anagrams.Entity.pdb
+C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.Business\obj\Debug\Anagrams.Business.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.Business\obj\Debug\Anagrams.Business.dll
+C:\Users\Sergio\Source\Repos\moj-scenario\Anagrams\Anagrams.Business\obj\Debug\Anagrams.Business.pdb

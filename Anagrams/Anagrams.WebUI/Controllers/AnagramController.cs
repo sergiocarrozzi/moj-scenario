@@ -25,7 +25,10 @@ namespace Anagrams.WebUI.Controllers
                 List<String> anagrams = this.anagramsBusiness.GetAnagrams(word);
                 results.Add(word, anagrams);
             }
-            return Json(results);
+            //return Json(results, JsonRequestBehavior.AllowGet);
+            var jsonResult = Json(results, JsonRequestBehavior.AllowGet);
+            jsonResult.MaxJsonLength = int.MaxValue;
+            return jsonResult;
         }
     }
 }

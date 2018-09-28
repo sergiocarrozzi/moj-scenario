@@ -26,13 +26,16 @@ namespace Anagrams.Business
             // clean the word from unwanted charatcters
             String wordToBeChecked = CleanWord(word);
             // order the word alphabetically
-            wordToBeChecked = wordToBeChecked.ToLower().OrderBy(c => c).ToString();
+            wordToBeChecked = String.Concat(wordToBeChecked.OrderBy(c => c));
 
             // get the repository
             List<String> wordlist = this.repository.Wordlist;
 
             // check the repository ordering the values alphabetically
-            return wordlist.Where(c => c.OrderBy(wo => wo).ToString() == wordToBeChecked).ToList();
+            return wordlist
+                .Where(c => 
+                    String.Concat(c.OrderBy(wo => wo)) == wordToBeChecked && c != word)
+                .ToList();
         }
 
         /// <summary>
